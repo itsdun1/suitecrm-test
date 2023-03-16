@@ -36,9 +36,16 @@
 node_modules
 
 # Compiled Output
-/public/
+# /public/
 /dist/
-
+!/public/
+/public/*
+!/public/legacy/
+/public/legacy/*
+!/public/legacy/custom/
+/public/legacy/custom/*
+!/public/legacy/custom/modules/
+/public/legacy/custom/modules/*/Ext/
 # Custom
 /extensions/
 !extensions/.gitkeep
