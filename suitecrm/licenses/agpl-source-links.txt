@@ -1,0 +1,1 @@
+suitecrm-8.2.4,AGPL-3.0-only,https://github.com/salesagility/SuiteCRM-Core/releases/download/v8.2.4/SuiteCRM-8.2.4.zip
