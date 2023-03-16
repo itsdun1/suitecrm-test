@@ -6,6 +6,7 @@ $hook_array = Array();
 // position, file, function 
 $hook_array['process_record'] = Array(); 
 $hook_array['process_record'][] = Array(1, 'count', 'modules/Calls_Reschedule/reschedule_count.php','reschedule_count', 'count'); 
+$hook_array['process_record'][] = Array(2, 'count', 'modules/Calls_Reschedule/reschedule_count.php','reschedule_count', 'count'); 
 
 
 
